@@ -1,0 +1,12 @@
+
+# Data manipulation
+pandas==1.5.3
+
+# AWS SDK for Python
+boto3==1.26.165
+
+# PostgreSQL adapter
+psycopg2==2.9.6
+
+# Date and time handling
+python-dateutil==2.8.2
