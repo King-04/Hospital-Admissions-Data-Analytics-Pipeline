@@ -1,0 +1,650 @@
+[2024-06-20T14:15:26.228+0000] {processor.py:161} INFO - Started process (PID=30) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:15:26.230+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:15:26.232+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:15:26.232+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:15:27.487+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:15:27.793+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:15:27.792+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:15:27.815+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:15:27.814+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:15:27.880+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.659 seconds
+[2024-06-20T14:15:58.237+0000] {processor.py:161} INFO - Started process (PID=97) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:15:58.238+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:15:58.241+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:15:58.240+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:15:58.896+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:15:59.010+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:15:59.010+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:15:59.020+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:15:59.020+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:15:59.041+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 0.813 seconds
+[2024-06-20T14:16:29.449+0000] {processor.py:161} INFO - Started process (PID=161) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:16:29.450+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:16:29.452+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:16:29.452+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:16:30.007+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:16:30.024+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:16:30.024+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:16:30.035+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:16:30.035+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:16:30.059+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 0.616 seconds
+[2024-06-20T14:17:00.188+0000] {processor.py:161} INFO - Started process (PID=223) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:17:00.189+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:17:00.191+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:17:00.191+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:17:00.692+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:17:00.708+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:17:00.708+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:17:00.721+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:17:00.721+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:17:00.741+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 0.559 seconds
+[2024-06-20T14:17:30.817+0000] {processor.py:161} INFO - Started process (PID=283) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:17:30.818+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:17:30.820+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:17:30.820+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:17:31.280+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:17:31.295+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:17:31.295+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:17:31.304+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:17:31.304+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:17:31.322+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 0.509 seconds
+[2024-06-20T14:18:01.849+0000] {processor.py:161} INFO - Started process (PID=343) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:18:01.850+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:18:01.852+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:18:01.852+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:18:02.349+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:18:02.365+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:18:02.364+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:18:02.374+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:18:02.374+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:18:02.393+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 0.552 seconds
+[2024-06-20T14:18:32.442+0000] {processor.py:161} INFO - Started process (PID=403) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:18:32.443+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:18:32.444+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:18:32.444+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:18:32.946+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:18:32.974+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:18:32.973+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:18:32.990+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:18:32.989+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:18:33.014+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 0.578 seconds
+[2024-06-20T14:19:03.242+0000] {processor.py:161} INFO - Started process (PID=467) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:19:03.243+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:19:03.245+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:19:03.245+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:19:03.701+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:19:03.715+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:19:03.715+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:19:03.725+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:19:03.725+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:19:03.748+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 0.511 seconds
+[2024-06-20T14:19:33.854+0000] {processor.py:161} INFO - Started process (PID=533) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:19:33.855+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:19:33.857+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:19:33.856+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:19:34.330+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:19:34.345+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:19:34.345+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:19:34.357+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:19:34.357+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:19:34.376+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 0.528 seconds
+[2024-06-20T14:20:04.507+0000] {processor.py:161} INFO - Started process (PID=593) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:20:04.508+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:20:04.510+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:20:04.510+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:20:05.021+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:20:05.046+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:20:05.045+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:20:05.062+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:20:05.062+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:20:05.096+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 0.595 seconds
+[2024-06-20T14:20:35.280+0000] {processor.py:161} INFO - Started process (PID=653) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:20:35.281+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:20:35.283+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:20:35.282+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:20:35.765+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:20:35.780+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:20:35.779+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:20:35.789+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:20:35.789+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:20:35.814+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 0.540 seconds
+[2024-06-20T14:21:05.906+0000] {processor.py:161} INFO - Started process (PID=713) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:21:05.907+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:21:05.908+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:21:05.908+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:21:06.391+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:21:06.409+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:21:06.409+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:21:06.421+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:21:06.421+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:21:06.447+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 0.547 seconds
+[2024-06-20T14:21:37.194+0000] {processor.py:161} INFO - Started process (PID=773) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:21:37.195+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:21:37.197+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:21:37.197+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:21:37.793+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:21:37.817+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:21:37.815+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:21:37.843+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:21:37.842+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:21:37.869+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 0.681 seconds
+[2024-06-20T14:22:08.005+0000] {processor.py:161} INFO - Started process (PID=838) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:22:08.006+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:22:08.008+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:22:08.008+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:22:08.500+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:22:08.518+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:22:08.518+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:22:08.533+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:22:08.533+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:22:08.557+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 0.557 seconds
+[2024-06-20T14:22:39.366+0000] {processor.py:161} INFO - Started process (PID=898) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:22:39.367+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:22:39.369+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:22:39.369+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:22:39.934+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:22:39.952+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:22:39.952+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:22:39.964+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:22:39.964+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:22:39.988+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 0.630 seconds
+[2024-06-20T14:23:10.989+0000] {processor.py:161} INFO - Started process (PID=962) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:23:10.990+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:23:10.992+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:23:10.992+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:23:11.523+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:23:11.545+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:23:11.545+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:23:11.557+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:23:11.557+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:23:11.580+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 0.597 seconds
+[2024-06-20T14:23:41.642+0000] {processor.py:161} INFO - Started process (PID=1026) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:23:41.643+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:23:41.645+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:23:41.645+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:23:42.116+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:23:42.130+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:23:42.130+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:23:42.140+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:23:42.140+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:23:42.159+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 0.522 seconds
+[2024-06-20T14:24:13.084+0000] {processor.py:161} INFO - Started process (PID=1089) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:24:13.085+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:24:13.087+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:24:13.087+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:24:13.657+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:24:13.672+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:24:13.672+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:24:13.682+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:24:13.682+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:24:13.700+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 0.622 seconds
+[2024-06-20T14:24:43.906+0000] {processor.py:161} INFO - Started process (PID=1153) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:24:43.907+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:24:43.909+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:24:43.909+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:24:44.573+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:24:44.600+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:24:44.600+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:24:44.619+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:24:44.619+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:24:44.654+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 0.754 seconds
+[2024-06-20T14:25:01.257+0000] {processor.py:161} INFO - Started process (PID=1170) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:25:01.259+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:25:01.260+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:25:01.260+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:25:01.759+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:25:01.773+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:25:01.772+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:25:01.782+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:25:01.781+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:25:01.816+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 0.565 seconds
+[2024-06-20T14:25:32.123+0000] {processor.py:161} INFO - Started process (PID=1230) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:25:32.124+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:25:32.126+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:25:32.126+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:25:32.644+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:25:32.659+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:25:32.659+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:25:32.669+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:25:32.669+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:25:32.693+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 0.576 seconds
+[2024-06-20T14:26:02.802+0000] {processor.py:161} INFO - Started process (PID=1290) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:26:02.803+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:26:02.805+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:26:02.805+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:26:03.292+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:26:03.307+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:26:03.306+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:26:03.317+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:26:03.316+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:26:03.335+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 0.540 seconds
+[2024-06-20T14:26:33.755+0000] {processor.py:161} INFO - Started process (PID=1350) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:26:33.756+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:26:33.759+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:26:33.759+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:26:34.277+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:26:34.294+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:26:34.294+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:26:34.307+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:26:34.306+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:26:34.334+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 0.586 seconds
+[2024-06-20T14:27:04.838+0000] {processor.py:161} INFO - Started process (PID=1416) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:27:04.839+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:27:04.841+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:27:04.841+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:27:05.316+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:27:05.337+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:27:05.336+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:27:05.353+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:27:05.353+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:27:05.380+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 0.547 seconds
+[2024-06-20T14:27:35.973+0000] {processor.py:161} INFO - Started process (PID=1476) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:27:35.974+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:27:35.976+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:27:35.975+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:27:36.450+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:27:36.468+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:27:36.467+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:27:36.478+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:27:36.478+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:27:36.502+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 0.536 seconds
+[2024-06-20T14:28:06.729+0000] {processor.py:161} INFO - Started process (PID=1536) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:28:06.730+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:28:06.732+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:28:06.732+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:28:07.237+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:28:07.252+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:28:07.252+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:28:07.263+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:28:07.263+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:28:07.289+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 0.567 seconds
+[2024-06-20T14:28:37.543+0000] {processor.py:161} INFO - Started process (PID=1597) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:28:37.546+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:28:37.552+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:28:37.551+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:28:38.491+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:28:38.542+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:28:38.541+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:28:38.575+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:28:38.574+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:28:38.620+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.099 seconds
+[2024-06-20T14:29:08.787+0000] {processor.py:161} INFO - Started process (PID=1657) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:29:08.789+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:29:08.793+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:29:08.792+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:29:09.737+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:29:09.779+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:29:09.778+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:29:09.807+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:29:09.807+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:29:09.856+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.082 seconds
+[2024-06-20T14:29:40.529+0000] {processor.py:161} INFO - Started process (PID=1719) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:29:40.533+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:29:40.540+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:29:40.539+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:29:41.476+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:29:41.518+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:29:41.517+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:29:41.548+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:29:41.547+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:29:41.598+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.091 seconds
+[2024-06-20T14:30:12.143+0000] {processor.py:161} INFO - Started process (PID=1781) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:30:12.148+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:30:12.155+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:30:12.154+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:30:13.161+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:30:13.205+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:30:13.204+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:30:13.237+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:30:13.237+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:30:13.294+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.175 seconds
+[2024-06-20T14:30:43.574+0000] {processor.py:161} INFO - Started process (PID=1841) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:30:43.578+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:30:43.585+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:30:43.584+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:30:44.517+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:30:44.558+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:30:44.557+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:30:44.590+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:30:44.589+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:30:44.652+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.122 seconds
+[2024-06-20T14:31:15.141+0000] {processor.py:161} INFO - Started process (PID=1905) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:31:15.143+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:31:15.147+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:31:15.147+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:31:16.277+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:31:16.321+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:31:16.320+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:31:16.353+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:31:16.352+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:31:16.395+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.270 seconds
+[2024-06-20T14:31:46.700+0000] {processor.py:161} INFO - Started process (PID=1969) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:31:46.702+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:31:46.705+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:31:46.705+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:31:47.491+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:31:47.529+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:31:47.528+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:31:47.558+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:31:47.557+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:31:47.601+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 0.916 seconds
+[2024-06-20T14:32:18.051+0000] {processor.py:161} INFO - Started process (PID=2029) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:32:18.053+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:32:18.057+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:32:18.057+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:32:18.868+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:32:18.897+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:32:18.896+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:32:18.920+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:32:18.920+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:32:18.954+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 0.926 seconds
+[2024-06-20T14:32:49.172+0000] {processor.py:161} INFO - Started process (PID=2093) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:32:49.174+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:32:49.179+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:32:49.178+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:32:50.089+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:32:50.128+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:32:50.127+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:32:50.160+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:32:50.160+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:32:50.204+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.052 seconds
+[2024-06-20T14:33:20.518+0000] {processor.py:161} INFO - Started process (PID=2156) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:33:20.520+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:33:20.525+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:33:20.524+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:33:21.537+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:33:21.579+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:33:21.579+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:33:21.608+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:33:21.608+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:33:21.662+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.159 seconds
+[2024-06-20T14:33:51.838+0000] {processor.py:161} INFO - Started process (PID=2216) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:33:51.843+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:33:51.854+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:33:51.852+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:33:52.899+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:33:52.945+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:33:52.943+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:33:52.990+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:33:52.990+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:33:53.052+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.249 seconds
+[2024-06-20T14:34:23.368+0000] {processor.py:161} INFO - Started process (PID=2278) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:34:23.372+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:34:23.378+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:34:23.377+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:34:24.666+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:34:24.694+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:34:24.694+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:34:24.717+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:34:24.716+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:34:24.755+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.407 seconds
+[2024-06-20T14:34:55.024+0000] {processor.py:161} INFO - Started process (PID=2341) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:34:55.027+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:34:55.031+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:34:55.030+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:34:55.882+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:34:55.927+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:34:55.924+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:34:55.961+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:34:55.961+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:34:56.015+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.006 seconds
+[2024-06-20T14:35:26.642+0000] {processor.py:161} INFO - Started process (PID=2402) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:35:26.647+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:35:26.654+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:35:26.653+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:35:27.612+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:35:27.657+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:35:27.656+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:35:27.688+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:35:27.687+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:35:27.757+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.145 seconds
+[2024-06-20T14:35:58.246+0000] {processor.py:161} INFO - Started process (PID=2462) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:35:58.248+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:35:58.252+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:35:58.251+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:35:59.286+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:35:59.324+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:35:59.323+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:35:59.355+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:35:59.354+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:35:59.399+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.171 seconds
+[2024-06-20T14:36:29.689+0000] {processor.py:161} INFO - Started process (PID=2524) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:36:29.691+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:36:29.696+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:36:29.695+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:36:30.497+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:36:30.567+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:36:30.565+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:36:30.617+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:36:30.616+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:36:30.691+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.017 seconds
+[2024-06-20T14:37:00.846+0000] {processor.py:161} INFO - Started process (PID=2587) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:37:00.849+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:37:00.855+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:37:00.854+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:37:01.864+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:37:01.905+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:37:01.904+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:37:01.933+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:37:01.933+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:37:01.974+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.147 seconds
+[2024-06-20T14:37:32.360+0000] {processor.py:161} INFO - Started process (PID=2648) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:37:32.363+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:37:32.370+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:37:32.369+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:37:33.459+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:37:33.502+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:37:33.501+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:37:33.533+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:37:33.533+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:37:33.582+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.250 seconds
+[2024-06-20T14:38:03.704+0000] {processor.py:161} INFO - Started process (PID=2710) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:38:03.707+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:38:03.712+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:38:03.711+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:38:04.765+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:38:04.795+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:38:04.795+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:38:04.823+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:38:04.823+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:38:04.898+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.214 seconds
+[2024-06-20T14:38:35.453+0000] {processor.py:161} INFO - Started process (PID=2772) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:38:35.455+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:38:35.459+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:38:35.459+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:38:36.371+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:38:36.403+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:38:36.403+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:38:36.428+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:38:36.428+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:38:36.465+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.023 seconds
+[2024-06-20T14:39:06.693+0000] {processor.py:161} INFO - Started process (PID=2842) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:39:06.695+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:39:06.698+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:39:06.698+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:39:07.744+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:39:07.779+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:39:07.778+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:39:07.806+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:39:07.805+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:39:07.848+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.166 seconds
+[2024-06-20T14:39:38.083+0000] {processor.py:161} INFO - Started process (PID=2902) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:39:38.087+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:39:38.093+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:39:38.092+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:39:39.112+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:39:39.158+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:39:39.157+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:39:39.203+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:39:39.202+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:39:39.242+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.185 seconds
+[2024-06-20T14:40:09.565+0000] {processor.py:161} INFO - Started process (PID=2965) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:40:09.567+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:40:09.570+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:40:09.569+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:40:10.348+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:40:10.381+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:40:10.380+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:40:10.411+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:40:10.411+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:40:10.451+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 0.898 seconds
+[2024-06-20T14:40:40.768+0000] {processor.py:161} INFO - Started process (PID=3028) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:40:40.770+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:40:40.775+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:40:40.774+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:40:41.935+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:40:41.976+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:40:41.975+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:40:42.009+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:40:42.008+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:40:42.064+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.309 seconds
+[2024-06-20T14:41:12.153+0000] {processor.py:161} INFO - Started process (PID=3092) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:41:12.154+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:41:12.158+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:41:12.157+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:41:13.078+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:41:13.153+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:41:13.151+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:41:13.516+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:41:13.515+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:41:13.553+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.411 seconds
+[2024-06-20T14:41:43.637+0000] {processor.py:161} INFO - Started process (PID=3155) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:41:43.639+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:41:43.642+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:41:43.642+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:41:43.724+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:41:43.708+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/hospital_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/hospital_dag.py", line 5, in <module>
+    from etl_script import extract_transform, load_s3, load_redshift
+  File "/opt/airflow/dags/etl_script.py", line 14
+    adm_df = pd.read_csv('C:\Users\DEVICES\Desktop\Data E\Projects\Hospital Admissions Data Analytics pipeline\source_data\Admission Data.csv')
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: (unicode error) 'unicodeescape' codec can't decode bytes in position 2-3: truncated \UXXXXXXXX escape
+[2024-06-20T14:41:43.729+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:41:43.782+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 0.159 seconds
+[2024-06-20T14:42:13.983+0000] {processor.py:161} INFO - Started process (PID=3213) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:42:13.986+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:42:13.989+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:42:13.989+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:42:14.041+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:42:14.032+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/hospital_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/hospital_dag.py", line 5, in <module>
+    from etl_script import extract_transform, load_s3, load_redshift
+  File "/opt/airflow/dags/etl_script.py", line 14
+    adm_df = pd.read_csv('C:\Users\DEVICES\Desktop\Data E\Projects\Hospital Admissions Data Analytics pipeline\source_data\Admission Data.csv')
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: (unicode error) 'unicodeescape' codec can't decode bytes in position 2-3: truncated \UXXXXXXXX escape
+[2024-06-20T14:42:14.044+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:42:14.094+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 0.125 seconds
+[2024-06-20T14:42:44.854+0000] {processor.py:161} INFO - Started process (PID=3272) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:42:44.855+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:42:44.857+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:42:44.856+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:42:45.959+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:42:46.471+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:42:46.471+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:42:46.489+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:42:46.489+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:42:46.530+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.692 seconds
+[2024-06-20T14:43:17.458+0000] {processor.py:161} INFO - Started process (PID=3333) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:43:17.460+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:43:17.463+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:43:17.462+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:43:18.216+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:43:18.254+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:43:18.253+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:43:18.281+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:43:18.281+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:43:18.336+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 0.894 seconds
+[2024-06-20T14:43:49.233+0000] {processor.py:161} INFO - Started process (PID=3393) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:43:49.238+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:43:49.245+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:43:49.243+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:43:50.258+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:43:50.305+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:43:50.304+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:43:50.331+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:43:50.331+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:43:50.373+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.178 seconds
+[2024-06-20T14:44:20.846+0000] {processor.py:161} INFO - Started process (PID=3453) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:44:20.850+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:44:20.855+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:44:20.854+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:44:22.005+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:44:22.042+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:44:22.041+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:44:22.067+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:44:22.066+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:44:22.115+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.292 seconds
+[2024-06-20T14:44:53.023+0000] {processor.py:161} INFO - Started process (PID=3514) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:44:53.028+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:44:53.035+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:44:53.033+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:44:54.134+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:44:54.174+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:44:54.173+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:44:54.201+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:44:54.201+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:44:54.250+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.259 seconds
+[2024-06-20T14:45:25.065+0000] {processor.py:161} INFO - Started process (PID=3574) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:45:25.069+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:45:25.074+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:45:25.073+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:45:26.082+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:45:26.401+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:45:26.401+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:45:26.428+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:45:26.428+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:45:26.475+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.437 seconds
+[2024-06-20T14:45:57.268+0000] {processor.py:161} INFO - Started process (PID=3634) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:45:57.271+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:45:57.274+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:45:57.273+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:45:58.253+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:45:58.294+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:45:58.293+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:45:58.322+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:45:58.322+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:45:58.370+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.115 seconds
+[2024-06-20T14:46:28.490+0000] {processor.py:161} INFO - Started process (PID=3694) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:46:28.491+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:46:28.493+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:46:28.492+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:46:29.423+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:46:29.457+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:46:29.456+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:46:29.483+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:46:29.483+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:46:29.528+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.051 seconds
+[2024-06-20T14:46:59.887+0000] {processor.py:161} INFO - Started process (PID=3754) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:46:59.892+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:46:59.901+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:46:59.900+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:47:01.164+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:47:01.199+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:47:01.198+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:47:01.224+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:47:01.223+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:47:01.271+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.413 seconds
+[2024-06-20T14:47:31.513+0000] {processor.py:161} INFO - Started process (PID=3814) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:47:31.515+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:47:31.517+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:47:31.517+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:47:32.630+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:47:32.704+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:47:32.702+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:47:32.753+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:47:32.752+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:47:32.842+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.344 seconds
+[2024-06-20T14:48:03.160+0000] {processor.py:161} INFO - Started process (PID=3874) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:48:03.164+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:48:03.171+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:48:03.170+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:48:04.498+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:48:04.529+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:48:04.528+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:48:04.550+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:48:04.550+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:48:04.595+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.460 seconds
+[2024-06-20T14:48:34.952+0000] {processor.py:161} INFO - Started process (PID=3936) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:48:34.957+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:48:34.962+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:48:34.960+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:48:36.170+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:48:36.199+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:48:36.198+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:48:36.222+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:48:36.222+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:48:36.273+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.348 seconds
+[2024-06-20T14:49:06.943+0000] {processor.py:161} INFO - Started process (PID=3996) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:49:06.950+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:49:06.954+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:49:06.953+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:49:08.208+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:49:08.258+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:49:08.257+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:49:08.292+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:49:08.291+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:49:08.343+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.415 seconds
+[2024-06-20T14:49:38.660+0000] {processor.py:161} INFO - Started process (PID=4062) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:49:38.662+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:49:38.664+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:49:38.663+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:49:39.755+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:49:39.792+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:49:39.791+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:49:39.817+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:49:39.816+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:49:39.860+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.210 seconds
+[2024-06-20T14:50:06.822+0000] {processor.py:161} INFO - Started process (PID=4116) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:50:06.825+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:50:06.828+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:50:06.827+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:50:07.912+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:50:07.944+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:50:07.944+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:50:07.972+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:50:07.971+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:50:08.021+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.223 seconds
+[2024-06-20T14:50:38.379+0000] {processor.py:161} INFO - Started process (PID=4182) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:50:38.381+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:50:38.384+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:50:38.383+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:50:39.627+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:50:39.675+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:50:39.674+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:50:39.710+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:50:39.709+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:50:39.770+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.409 seconds
+[2024-06-20T14:51:09.953+0000] {processor.py:161} INFO - Started process (PID=4242) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:51:09.954+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:51:09.957+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:51:09.956+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:51:11.028+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:51:11.064+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:51:11.064+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:51:11.091+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:51:11.090+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:51:11.139+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.198 seconds
+[2024-06-20T14:51:41.557+0000] {processor.py:161} INFO - Started process (PID=4302) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:51:41.558+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:51:41.560+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:51:41.560+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:51:42.585+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:51:42.613+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:51:42.612+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:51:42.629+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:51:42.629+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:51:42.663+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.117 seconds
+[2024-06-20T14:52:13.195+0000] {processor.py:161} INFO - Started process (PID=4362) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:52:13.201+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:52:13.206+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:52:13.204+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:52:15.059+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:52:15.127+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:52:15.126+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:52:15.150+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:52:15.149+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:52:15.190+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 2.024 seconds
+[2024-06-20T14:52:45.323+0000] {processor.py:161} INFO - Started process (PID=4424) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:52:45.327+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:52:45.331+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:52:45.330+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:52:46.561+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:52:46.638+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:52:46.636+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:52:46.679+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:52:46.679+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:52:46.719+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.422 seconds
+[2024-06-20T14:53:16.974+0000] {processor.py:161} INFO - Started process (PID=4484) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:53:16.976+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:53:16.979+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:53:16.978+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:53:18.077+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:53:18.109+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:53:18.108+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:53:18.131+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:53:18.130+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:53:18.169+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.225 seconds
+[2024-06-20T14:53:48.411+0000] {processor.py:161} INFO - Started process (PID=4549) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:53:48.415+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:53:48.418+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:53:48.417+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:53:49.586+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:53:49.620+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:53:49.620+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:53:49.644+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:53:49.644+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:53:49.686+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.295 seconds
+[2024-06-20T14:54:19.848+0000] {processor.py:161} INFO - Started process (PID=4612) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:54:19.851+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:54:19.853+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:54:19.852+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:54:20.998+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:54:21.059+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:54:21.058+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:54:21.106+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:54:21.105+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:54:21.174+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.338 seconds
+[2024-06-20T14:54:51.771+0000] {processor.py:161} INFO - Started process (PID=4675) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:54:51.776+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:54:51.780+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:54:51.778+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:54:53.316+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:54:53.352+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:54:53.351+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:54:53.382+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:54:53.381+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:54:53.428+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.681 seconds
+[2024-06-20T14:55:23.942+0000] {processor.py:161} INFO - Started process (PID=4737) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:55:23.943+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:55:23.945+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:55:23.945+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:55:25.110+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:55:25.158+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:55:25.157+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:55:25.197+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:55:25.196+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:55:25.259+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.330 seconds
+[2024-06-20T14:55:55.456+0000] {processor.py:161} INFO - Started process (PID=4799) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:55:55.458+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:55:55.460+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:55:55.459+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:55:56.435+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:55:56.466+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:55:56.465+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:55:56.489+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:55:56.488+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:55:56.526+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.081 seconds
+[2024-06-20T14:56:26.813+0000] {processor.py:161} INFO - Started process (PID=4863) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:56:26.815+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:56:26.817+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:56:26.816+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:56:27.955+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:56:27.982+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:56:27.982+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:56:28.000+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:56:27.999+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:56:28.038+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.244 seconds
+[2024-06-20T14:56:58.766+0000] {processor.py:161} INFO - Started process (PID=4926) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:56:58.770+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:56:58.774+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:56:58.773+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:56:59.985+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:57:00.015+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:57:00.014+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:57:00.040+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:57:00.040+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:57:00.071+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.331 seconds
+[2024-06-20T14:57:30.466+0000] {processor.py:161} INFO - Started process (PID=4989) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:57:30.470+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:57:30.473+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:57:30.472+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:57:31.837+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:57:31.873+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:57:31.872+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:57:31.897+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:57:31.897+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:57:31.943+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.504 seconds
+[2024-06-20T14:58:02.845+0000] {processor.py:161} INFO - Started process (PID=5051) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:58:02.847+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:58:02.849+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:58:02.849+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:58:03.960+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:58:03.984+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:58:03.984+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:58:04.002+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:58:04.001+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:58:04.037+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.206 seconds
+[2024-06-20T14:58:34.123+0000] {processor.py:161} INFO - Started process (PID=5111) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:58:34.124+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:58:34.126+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:58:34.125+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:58:34.980+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:58:35.007+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:58:35.007+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:58:35.033+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:58:35.032+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:58:35.063+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 0.949 seconds
+[2024-06-20T14:59:05.771+0000] {processor.py:161} INFO - Started process (PID=5171) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:59:05.775+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:59:05.780+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:59:05.779+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:59:06.736+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:59:06.772+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:59:06.771+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:59:06.796+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:59:06.796+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:59:06.837+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.095 seconds
+[2024-06-20T14:59:37.006+0000] {processor.py:161} INFO - Started process (PID=5234) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:59:37.008+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T14:59:37.011+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:59:37.010+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:59:38.164+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T14:59:38.207+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:59:38.207+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T14:59:38.231+0000] {logging_mixin.py:188} INFO - [2024-06-20T14:59:38.231+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T14:59:38.281+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.295 seconds
+[2024-06-20T15:00:08.733+0000] {processor.py:161} INFO - Started process (PID=5298) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T15:00:08.735+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T15:00:08.737+0000] {logging_mixin.py:188} INFO - [2024-06-20T15:00:08.736+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T15:00:09.899+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T15:00:09.937+0000] {logging_mixin.py:188} INFO - [2024-06-20T15:00:09.936+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T15:00:09.974+0000] {logging_mixin.py:188} INFO - [2024-06-20T15:00:09.974+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T15:00:10.030+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.313 seconds
+[2024-06-20T15:00:40.306+0000] {processor.py:161} INFO - Started process (PID=5368) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T15:00:40.319+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T15:00:40.321+0000] {logging_mixin.py:188} INFO - [2024-06-20T15:00:40.321+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T15:00:41.495+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T15:00:41.531+0000] {logging_mixin.py:188} INFO - [2024-06-20T15:00:41.530+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T15:00:41.562+0000] {logging_mixin.py:188} INFO - [2024-06-20T15:00:41.562+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T15:00:41.605+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.325 seconds
+[2024-06-20T15:01:11.964+0000] {processor.py:161} INFO - Started process (PID=5429) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T15:01:11.969+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T15:01:11.973+0000] {logging_mixin.py:188} INFO - [2024-06-20T15:01:11.972+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T15:01:13.192+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T15:01:13.218+0000] {logging_mixin.py:188} INFO - [2024-06-20T15:01:13.217+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T15:01:13.241+0000] {logging_mixin.py:188} INFO - [2024-06-20T15:01:13.240+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T15:01:13.279+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 1.343 seconds
+[2024-06-20T15:01:44.186+0000] {processor.py:161} INFO - Started process (PID=5495) to work on /opt/airflow/dags/hospital_dag.py
+[2024-06-20T15:01:44.189+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/hospital_dag.py for tasks to queue
+[2024-06-20T15:01:44.192+0000] {logging_mixin.py:188} INFO - [2024-06-20T15:01:44.191+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T15:01:45.059+0000] {processor.py:840} INFO - DAG(s) 'hosp_pipeline' retrieved from /opt/airflow/dags/hospital_dag.py
+[2024-06-20T15:01:45.092+0000] {logging_mixin.py:188} INFO - [2024-06-20T15:01:45.091+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-20T15:01:45.119+0000] {logging_mixin.py:188} INFO - [2024-06-20T15:01:45.119+0000] {dag.py:3954} INFO - Setting next_dagrun for hosp_pipeline to None, run_after=None
+[2024-06-20T15:01:45.165+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/hospital_dag.py took 0.999 seconds
