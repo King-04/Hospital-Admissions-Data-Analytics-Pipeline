@@ -3,7 +3,7 @@
 ## Overview
 This project aims to create a data pipeline for hospital admission-related data. The pipeline will load, clean, transform, and store the data in an efficient manner. Additionally, it will create data models in the data warehouse to facilitate AI model development for predicting factors affecting hospital admissions by data scientists or AI engineers.
 
-![Pipeline image](/health_pipeline.png)
+![Pipeline image](/Health_pipeline.png)
 
 
 ## Project Steps
@@ -27,6 +27,8 @@ This project aims to create a data pipeline for hospital admission-related data.
    - Design star schema models to simplify querying and analysis.
    - Identify relevant dimensions and facts tables.
 
+6. **Airflow and Docker**
+   - The Airflow image in Docker is used to automate the pipeline.
 
 ## Running the Pipeline
 1. Install dependencies by running:
