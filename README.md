@@ -3,7 +3,7 @@
 ## Overview
 This project aims to create a data pipeline for hospital admission-related data. The pipeline will load, clean, transform, and store the data in an efficient manner. Additionally, it will create data models in the data warehouse to facilitate AI model development for predicting factors affecting hospital admissions by data scientists or AI engineers.
 
-![Pipeline image](/Health_pipeline.png)
+![Pipeline image](/health_pipeline_diagram.png)
 
 
 ## Project Steps
